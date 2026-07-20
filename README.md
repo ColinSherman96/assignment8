@@ -1,3 +1,11 @@
+# Module 8 
+
+Docker link:
+https://hub.docker.com/repository/docker/colinsherman/601_module8/general
+
+Github link:
+https://github.com/ColinSherman96/assignment8
+
 # 📦 Project Setup
 
 ---
