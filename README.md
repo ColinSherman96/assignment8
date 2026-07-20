@@ -3,7 +3,7 @@
 ---
 
 # 🧩 1. Install Homebrew (Mac Only)
-
+# added functionality for my dockerhub
 > Skip this step if you're on Windows.
 
 Homebrew is a package manager for macOS.  
